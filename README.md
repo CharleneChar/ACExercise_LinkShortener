@@ -1,5 +1,6 @@
 ## Link Shortener Project :toolbox:
-**Hi! This is code for building a website of link shortener. It shortens a provided link and display the shortened link for use.**
+**Hi! This is code for building a website of link shortener. \
+The website shortens a provided link and display the shortened link for use.**
 
 ### :link: Project Prerequisites
 1. Node.js (version 14.16.0)
